@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Nouts</string>
+    <string name="agregarNota">Agregar nota nueva:</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Nouts</string>
+    <string name="tituloNota">Titulo:</string>
+    <string name="descripcionNota">Descripcion:</string>
+    <string name="agregarBotonNota">Agregar</string>
+
+</resources>
